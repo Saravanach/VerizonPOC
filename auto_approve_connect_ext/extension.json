@@ -3,7 +3,7 @@
   "description": "Extension that automatically approves incoming fulfillment requests",
   "version": "0.0.4",
   "readme_url": "https://github.com/Saravanach/VerizonPOC/blob/main/README.md",
-  "changelog_url": "https://github.com/Saravanach/VerizonPOC/blob/master/CHANGELOG.md",
+  "changelog_url": "https://github.com/Saravanach/VerizonPOC/blob/main/CHANGELOG.md",
   "capabilities": {
     "asset_purchase_request_processing": [
       "pending"
